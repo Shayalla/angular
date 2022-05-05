@@ -9,14 +9,14 @@
   text-decoration: none;
 }
 
-.logo {
+.header .logo {
   max-width: 32px;
 }
 
-.title-group {
+.header .title-group {
   padding-left: 25px;
 }
 
-.title-group i {
+.header .title-group i {
   padding-right: 5px;
 }
